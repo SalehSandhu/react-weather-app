@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Weather-React-App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is my second react project. I implemented the use of a weather API to find the temperature of a City and display it. the background changes from red, hot to blue, cold,
+depending on the location. 
+
+I am still trying to get used to the arrow functions in JS and the useState. I have watched some video and tutorials on them but will continue learning more.
 
 ## Available Scripts
 
