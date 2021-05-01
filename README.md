@@ -5,6 +5,8 @@ depending on the location.
 
 I am still trying to get used to the arrow functions in JS and the useState. I have watched some video and tutorials on them but will continue learning more.
 
+project was made with the aid of the tutorial: https://www.youtube.com/watch?v=GuA0_Z1llYU
+
 ## Available Scripts
 
 In the project directory, you can run:
